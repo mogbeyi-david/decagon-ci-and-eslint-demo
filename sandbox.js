@@ -6,5 +6,3 @@
 function add(firstNumber, secondNumber) {
   return firstNumber + secondNumber;
 }
-
-add(2, 3);
